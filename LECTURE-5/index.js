@@ -1,12 +1,12 @@
 let users=[
     {
         id:1,
-        name:"Saloni",
+        name:"SHUBHAM",
         age:24
     },
     {
         id:2,
-        name:"Paras",
+        name:"BHARDWAJ",
         age:18
     }
 ]
@@ -36,4 +36,5 @@ isAllowed(1).then((data)=>{
     console.log(err)
 })
 console.log("start");
+
 console.log("bvhjg")
